@@ -3,6 +3,7 @@ Begin!The VIBGYOR
 Violet
 Indigo
 Blue
+Purple
 Green
 Yellow
 Orange
